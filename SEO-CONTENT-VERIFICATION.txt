@@ -1,0 +1,7 @@
+SEO CONTENT FINAL CHECK
+Landing pages: 5143
+Pages additionally expanded in final pass: 10
+Minimum visible word count: 621
+Maximum visible word count: 857
+Pages below 600 words: 0
+Original filenames/URLs were not renamed.
